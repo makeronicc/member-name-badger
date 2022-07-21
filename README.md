@@ -1,6 +1,6 @@
 # member-name-badger
 
-Make your membership badge. Use any technology you want. We have some image assets - If you create more, add them to your project.
+Make your membership badge. Use any technology you want. We have some image [assets](./assets/README.md) - If you create more, add them to your project.
 
 To contribute: Fork this repository and create a directory in the Badges directory with your badge code, design and other bits. Then make a pull request to pull it in. You can do this at any time.
 
